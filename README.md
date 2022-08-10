@@ -19,12 +19,12 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- It is highly suggested to verify income source for the applicants who are living in rented house, having medium level annual income (30k-70k) and requesting for high loan amount 
+- It is suggested to avoid loan allotments for the applicants for the purpose such as debt consolidation and credit card with more number of open credit lines. 
+- It is suggested to encourage to have more number of enquiry with LC officials so that they will be aware of loan repayment details. 
+- It is suggested to reduced the interest rate for medium range loan amounts. 
+- It is highly suggested to avoid high loan allotment to applicants having more than 10 years of experience and having mid level annual income (30k-70k) 
+- It is suggested to upgrade the term for people having high loan amount which reduced the installment amount and the chances of defaulting
 
 
 ## Technologies Used
